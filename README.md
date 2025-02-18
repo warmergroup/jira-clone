@@ -1,6 +1,7 @@
-# Nuxt 3 Minimal Starter
+# Jira todo app clone
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This project is deployed and you can see it live [here](https://jira-todoapp.netlify.app)
+
 
 ## Setup
 
