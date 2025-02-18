@@ -1,6 +1,6 @@
 # Jira todo app clone
 
-This project is deployed and you can see it live [here](https://jira-todoapp.netlify.app)
+This project is deployed and you can see it live [JIRA TODO APP CLONE](https://jira-todoapp.netlify.app)
 
 
 ## Setup
